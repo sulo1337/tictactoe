@@ -1,10 +1,4 @@
-// Name: ACHARYA, SULOCHAN Date Assigned: 12th March
-//
-// Course: CSCI 2003 63794 Date Due: 22nd March
-//
-// Instructor: Ms. Greer
-//
-// File name: GameController.java
+// Name: ACHARYA, SULOCHAN 
 //
 // Program Description: This program controls the game class.
 //                      Creates new game object.

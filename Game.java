@@ -1,8 +1,4 @@
-// Name: ACHARYA, SULOCHAN Date Assigned: 12th March
-//
-// Course: CSCI 2003 63794 Date Due: 22nd March
-//
-// Instructor: Ms. Greer
+// Name: ACHARYA, SULOCHAN 
 //
 // File name: Game.java
 //
